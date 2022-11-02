@@ -71,6 +71,22 @@
             "date": 1661594578000
           }
         ]
+      },
+      {
+        "id": 2,
+        "nick": "NorbertFicner",
+        "last_time": [
+          {
+            "route_id": 2,
+            "time": 98,
+            "date": 1661004578000
+          },
+          {
+            "route_id": 2,
+            "time": 398,
+            "date": 1661594578000
+          }
+        ]
       }
     ]
   }
